@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+   <h1>
+      Home page
+   </h1>
+   <a href="https://www.google.com/"target=_blank "></a> 
+<<img src= "https://tech.hindustantimes.com/tech/news/did-facebook-really-change-its-logo-see-if-you-can-spot-the-difference-71695273284584.html
+   " /></a>
+     
+   <a httpshref="https://www.google.com/"target=_blank "></a>                    
+<ul>
+   <li>Item1</li>
+   <li>Item2</li>
+</ul>
+   <<table>
+      <tr>
+         <th>head</th>
+         <<th>head</th>
+      </tr>
+      <tr>
+        <td>list1</td>
+        <td>list2</td>
+      </tr >
+        
+      
+   </table>
+       </p> 
+        
+         
+      
+        
+      
+      
+  
+   
+   
+
+
+
+
+  <script src="script.js"></script>
+</body>
+
+</html>
